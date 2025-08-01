@@ -295,7 +295,7 @@
 - 📱 Mobile-first approach
 - ⚡ Fast and optimized performance
 
-**Tech Stack:** `NextJs` `Tailwindailwind CSS` `JavaScript` `Node.js` `MongoDB`
+**Tech Stack:** `NextJs` `Tailwind CSS` `JavaScript` `Node.js` `MongoDB`
 
 ### 🤖 [Auto-README-Updater](https://github.com/nitishsghh/auto-readme-updater)
 > Automatically updates README with latest projects and contributions
