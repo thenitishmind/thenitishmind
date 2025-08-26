@@ -1,262 +1,19 @@
-# 👋 Hey there! I'm Nitish Kumar
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+TypeScript;Building+Amazing+Web+Experiences;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
+# 🌟 Welcome to My Digital Universe 🌟
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-85a860126/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitishsghh)
-  [![Profile Views](https://komarev.com/ghpvc/?username=nitishsghh&color=blueviolet&style=for-the-badge)](https://github.com/nitishsghh)
+  <!-- 3D Name Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=800&height=100&lines=NITISH+KUMAR;FULL+STACK+DEVELOPER;3D+WEB+ARCHITECT;CODE+ARTIST" alt="3D Name Animation" />
   
-</div>
+  <!-- Floating Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2000&color=4ECDC4&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Building+Amazing+Web+Experiences+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+TypeScript+Expert;3D+Visualizations+%26+Interactive+UIs" alt="Subtitle Animation" />
 
----
-
-## 🚀 About Me
-
-> **"I Think I'm Funny 😊😍"** - Building the web, one line of code at a time!
-
-- 🔭 **Currently Working On:** [ShoeStore](https://github.com/nitishsghh/ShoeStore) - A modern e-commerce website
-- 🌱 **Learning:** Always enhancing my skills in modern web technologies
-- 📝 **Writing:** Regular articles on [LinkedIn](https://www.linkedin.com/in/nitish-kumar-85a860126/)
-- 💬 **Ask me about:** Python, JavaScript, TypeScript, Node.js
-- 👯 **Looking to collaborate on:** Full-stack projects
-- 🌍 **Location:** India 🇮🇳
-- 🕒 **Timezone:** UTC -12:00
-
----
-
-## 💻 Skills & Technologies
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=3D%20Tech%20Stack&fontSize=30&fontColor=fff&animation=twinkling"/>
-</div>
-
-### 🎨 Frontend Development
-<div align="center">
+  <!-- 3D Badges -->
+  <br/>
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-FF6B6B?style=for-the-badge&logo=code&logoColor=white&labelColor=171d3c" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-4ECDC4?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=171d3c" />
+  <img src="https://img.shields.io/badge/Passion-3D%20Web-45B7D1?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=171d3c" />
   
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/><br/>
-        <sub><b>HTML5</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-ff6b6b?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3"/><br/>
-        <sub><b>CSS3</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-4ecdc4?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/><br/>
-        <sub><b>JavaScript</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-45b7d1?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="TypeScript"/><br/>
-        <sub><b>TypeScript</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-96ceb4?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React"/><br/>
-        <sub><b>React</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-feca57?style=flat-square&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Next.js"/><br/>
-        <sub><b>Next.js</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-ff9ff3?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="Vue.js"/><br/>
-        <sub><b>Vue.js</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-54a0ff?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass"/><br/>
-        <sub><b>Sass</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-5f27cd?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind"/><br/>
-        <sub><b>Tailwind</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-00d2d3?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap"/><br/>
-        <sub><b>Bootstrap</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-ff6348?style=flat-square&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-### ⚙️ Backend Development
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js"/><br/>
-        <sub><b>Node.js</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-2ed573?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python"/><br/>
-        <sub><b>Python</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-3742fa?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js"/><br/>
-        <sub><b>Express.js</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-747d8c?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask"/><br/>
-        <sub><b>Flask</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-ff3838?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django"/><br/>
-        <sub><b>Django</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-2f3542?style=flat-square&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB"/><br/>
-        <sub><b>MongoDB</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-0abde3?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL"/><br/>
-        <sub><b>MySQL</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-f39801?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL"/><br/>
-        <sub><b>PostgreSQL</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-006ba6?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis"/><br/>
-        <sub><b>Redis</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-ff6b6b?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=graphql" width="65px" alt="GraphQL"/><br/>
-        <sub><b>GraphQL</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Learning-e056fd?style=flat-square&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS"/><br/>
-        <sub><b>AWS</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-ff9500?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=gcp" width="65px" alt="Google Cloud"/><br/>
-        <sub><b>Google Cloud</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-4285f4?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Azure"/><br/>
-        <sub><b>Azure</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Learning-0078d4?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker"/><br/>
-        <sub><b>Docker</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-2496ed?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Kubernetes"/><br/>
-        <sub><b>Kubernetes</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-326ce5?style=flat-square&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git"/><br/>
-        <sub><b>Git</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-f05032?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/><br/>
-        <sub><b>GitHub</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-181717?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="65px" alt="Jenkins"/><br/>
-        <sub><b>Jenkins</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-d33833?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nginx" width="65px" alt="Nginx"/><br/>
-        <sub><b>Nginx</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-269539?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=terraform" width="65px" alt="Terraform"/><br/>
-        <sub><b>Terraform</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Learning-623ce4?style=flat-square&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-### 🛠️ Development Tools
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code"/><br/>
-        <sub><b>VS Code</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Daily%20Use-007acc?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vim" width="65px" alt="Vim"/><br/>
-        <sub><b>Vim</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-019733?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman"/><br/>
-        <sub><b>Postman</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Expert-ff6c37?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma"/><br/>
-        <sub><b>Figma</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Intermediate-f24e1e?style=flat-square&logoColor=white" />
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux"/><br/>
-        <sub><b>Linux</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Advanced-fcc624?style=flat-square&logoColor=black" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
 </div>
 
 ---
@@ -264,108 +21,341 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitishsghh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishsghh&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishsghh&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=thenitishmind&show_icons=true&theme=synthwave&hide_border=true&bg_color=242f45&title_color=FF6B6B&icon_color=4ECDC4&text_color=white&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenitishmind&layout=compact&theme=synthwave&hide_border=true&bg_color=242f45&title_color=FF6B6B&text_color=white&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitishsghh&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<!-- PROJECTS-LIST:START -->
-### 🛒 [ShoeStore - E-commerce Platform](https://github.com/nitishsghh/ShoeStore)
-> A modern, full-featured e-commerce website for shoe retail
-
-**Key Features:**
-- 🎨 Modern and responsive UI design
-- 🛍️ Complete shopping cart functionality  
-- 💳 Secure payment integration
-- 📱 Mobile-first approach
-- ⚡ Fast and optimized performance
-
-**Tech Stack:** `NextJs` `Tailwind CSS` `JavaScript` `Node.js` `MongoDB`
-
-### 🤖 [Auto-README-Updater](https://github.com/nitishsghh/auto-readme-updater)
-> Automatically updates README with latest projects and contributions
-
-**Key Features:**
-- 🔄 Automatic project detection
-- 📊 Real-time stats integration
-- ⏰ Scheduled updates via GitHub Actions
-- 🎯 Smart filtering for relevant projects
-
-**Tech Stack:** `Python` `GitHub API` `GitHub Actions` `YAML`
-<!-- PROJECTS-LIST:END -->
-
-## 🤖 Auto-Update System
-
-<div align="center">
-  
-  ![Auto Update](https://img.shields.io/badge/Auto--Update-Enabled-brightgreen?style=for-the-badge&logo=github-actions)
-  ![Last Updated](https://img.shields.io/badge/Last%20Updated-$(date)-blue?style=for-the-badge)
-  
-</div>
-
-This README automatically updates every **6 hours** with:
-- ✅ Latest repositories and projects
-- ✅ Recent contributions and commits  
-- ✅ Updated GitHub statistics
-- ✅ New achievements and trophies
-- ✅ Fresh activity graphs
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishsghh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on interesting projects and connect with fellow developers!
-
-**💼 Open for:**
-- Full-stack development projects
-- Open source contributions
-- Technical discussions and mentoring
-- Freelance opportunities
-
-**📬 Reach out to me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitish-kumar-85a860126/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thenitishmind&theme=synthwave&hide_border=true&background=242f45&stroke=FF6B6B&ring=4ECDC4&fire=FFA726&currStreakLabel=white" alt="GitHub Streak" />
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-  **Thanks for visiting my profile! 🌟**
-  
-  <img src="https://komarev.com/ghpvc/?username=nitishsghh&color=blueviolet&style=flat-square&label=Profile+Views"/>
+
+### 🔍 OperationQuery - Management System
+*Real-time query management system for Operations, Sales, Credit, Approval, and Admin teams*
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Status-🟢%20Live-4ECDC4?style=for-the-badge&labelColor=171d3c" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Type-Full%20Stack-FF6B6B?style=for-the-badge&labelColor=171d3c" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Updated-Aug%202025-45B7D1?style=for-the-badge&labelColor=171d3c" />
+    </td>
+  </tr>
+</table>
+
+**🎨 Key Features:**
+- 🔄 Real-time query management
+- 👥 Multi-team access control
+- 📊 Advanced analytics dashboard
+- 🔐 Secure authentication
+- ⚡ Optimized performance
+
+**🛠️ Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 🪑 TableCraft - Furniture Showcase
+*Discover our collection of premium tables and furniture*
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Status-🔄%20Active-4ECDC4?style=for-the-badge&labelColor=171d3c" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Type-Automation-FF6B6B?style=for-the-badge&labelColor=171d3c" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Updated-Aug%202025-45B7D1?style=for-the-badge&labelColor=171d3c" />
+    </td>
+  </tr>
+</table>
+
+**🎯 Key Features:**
+- 🛋️ Premium furniture catalog
+- 📱 Responsive design
+- 🎨 Modern UI/UX
+- 🔍 Advanced search & filtering
+
+**🛠️ Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📊 ExcelDashboard - Analytics Platform
+*Modern, full-featured web app with Firebase authentication*
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Status-🔄%20Development-4ECDC4?style=for-the-badge&labelColor=171d3c" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Type-Dashboard-FF6B6B?style=for-the-badge&labelColor=171d3c" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Updated-Aug%202025-45B7D1?style=for-the-badge&labelColor=171d3c" />
+    </td>
+  </tr>
+</table>
+
+**🎯 Key Features:**
+- 🔥 Firebase authentication
+- 📈 Interactive dashboards
+- 📊 Data visualization
+- 🔐 Secure user management
+
+**🛠️ Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+</p>
+
 </div>
 
 ---
 
+## 💻 Tech Stack
+
 <div align="center">
-  <i>⭐ From [nitishsghh](https://github.com/nitishsghh) with ❤️</i>
+
+### 🎨 Frontend
+<table>
+  <tr>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-FF6B6B?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-4ECDC4?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-45B7D1?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-96CEB4?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br/>
+      <sub><b>React</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-FECA57?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Intermediate-FF9FF3?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/><br/>
+      <sub><b>Vue.js</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Intermediate-54A0FF?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind"/><br/>
+      <sub><b>Tailwind</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-00D2D3?style=flat&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-2ED573?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/>
+      <sub><b>Python</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-3742FA?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/><br/>
+      <sub><b>Express.js</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-747D8C?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/><br/>
+      <sub><b>Flask</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-FF3838?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/><br/>
+      <sub><b>Django</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Intermediate-2F3542?style=flat&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Database
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-0ABDE3?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-F39801?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Intermediate-006BA6?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/><br/>
+      <sub><b>Redis</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Intermediate-FF6B6B?style=flat&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### ☁️ Cloud & DevOps
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/><br/>
+      <sub><b>AWS</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-FF9500?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/><br/>
+      <sub><b>GCP</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Intermediate-4285F4?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Advanced-2496ED?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/><br/>
+      <sub><b>Kubernetes</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Intermediate-326CE5?style=flat&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
+      <sub><b>Git</b></sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-F05032?style=flat&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thenitishmind&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+
+---
+
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+### 🌐 Social Links
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/nitish-kumar-85a860126/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171d3c" />
+      </a><br/>
+      <sub>Professional Network</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thenitishmind" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=171d3c" />
+      </a><br/>
+      <sub>Code Repository</sub>
+    </td>
+    <td align="center">
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171d3c" />
+      </a><br/>
+      <sub>Direct Contact</sub>
+    </td>
+  </tr>
+</table>
+
+### 💼 Open For
+<img src="https://img.shields.io/badge/🤝_Collaboration-Open-4ECDC4?style=for-the-badge&labelColor=171d3c" />
+<img src="https://img.shields.io/badge/💼_Freelance-Available-45B7D1?style=for-the-badge&labelColor=171d3c" />
+<img src="https://img.shields.io/badge/🎓_Mentoring-Interested-FF6B6B?style=for-the-badge&labelColor=171d3c" />
+
+### 📍 Location & Timezone
+<img src="https://img.shields.io/badge/🌍_Location-India_🇮🇳-FF9500?style=for-the-badge&labelColor=171d3c" />
+<img src="https://img.shields.io/badge/🕒_Timezone-UTC+5:30-96CEB4?style=for-the-badge&labelColor=171d3c" />
+
+</div>
+
+---
+
+
+---
+
+<div align="center">
+
+
+### 📊 Profile Views
+<img src="https://komarev.com/ghpvc/?username=thenitishmind&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+### 🌟 Thanks for visiting!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=3000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+3D+profile!+🌟;Let's+build+something+amazing+together!+🚀;Feel+free+to+reach+out+anytime!+💫" alt="Thanks Message" />
+
+---
+
+<sub>⭐ From **[thenitishmind](https://github.com/thenitishmind)** with ❤️ | Made with love and lots of ☕</sub>
+
 </div>
