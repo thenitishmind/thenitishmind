@@ -1,10 +1,4 @@
 
-<div align="center">
-  
-```diff
-+ Welcome to the Matrix... You have entered Nitish's Digital Realm
-- Unauthorized access detected... Just kidding! 😄
-```
 
 ![Matrix Rain](https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif)
 
