@@ -36,6 +36,29 @@ const nitish = {
 - **Continuous Reflection**: Questioning assumptions and iterating toward better solutions
 - **Holistic Thinking**: Understanding that every piece of code exists within a larger ecosystem
 
+### 📌 Featured Projects
+
+#### 🎯 [Project Name](https://github.com/thenitishmind/project-repo)
+**Full-Stack Web Application** | `React` `Node.js` `MongoDB`
+> A mindful approach to [project description]. Built with clean architecture and user-centered design principles.
+- ✨ Feature 1: Brief description
+- ⚡ Feature 2: Brief description  
+- 🔧 Feature 3: Brief description
+
+#### 🌐 [Another Project](https://github.com/thenitishmind/another-repo)
+**Frontend Experience** | `Vue.js` `TypeScript` `CSS3`
+> Exploring the intersection of aesthetic design and functional programming.
+- 🎨 Beautiful, responsive UI/UX
+- 📱 Mobile-first approach
+- ♿ Accessibility-focused development
+
+#### 🤖 [AI/ML Project](https://github.com/thenitishmind/ai-project)
+**Machine Learning** | `Python` `TensorFlow` `FastAPI`
+> Questioning the nature of artificial consciousness through practical implementation.
+- 🧠 Neural network exploration
+- 📊 Data visualization and insights
+- 🔮 Philosophical implications of AI
+
 ### 🌱 Currently
 - Exploring the depths of modern web technologies
 - Reflecting on the nature of digital consciousness and AI
@@ -43,9 +66,8 @@ const nitish = {
 - Contributing to open source as a form of digital karma
 
 ### 📫 Connect
-- **GitHub**: [github.com/thenitishmind](https://github.com/thenitishmind)
-- **Email**: [Your email here]
-- **LinkedIn**: [Your LinkedIn here]
+- **GitHub**: github.com/thenitishmind
+- **Email**: thenitishmind@dev.in
 
 ---
 
