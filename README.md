@@ -42,14 +42,14 @@ const nitish = {
 
 ### 📌 Featured Projects
 
-#### 🎯 [Project Name](https://github.com/thenitishmind/project-repo)
+#### 🎯 [Infiny Project](https://github.com/thenitishmind/infiny)
 **Full-Stack Web Application** | `React` `Node.js` `MongoDB`
 
-> A mindful approach to [project description]. Built with clean architecture and user-centered design principles.
+> A mindful approach to infinite possibilities. Built with clean architecture and user-centered design principles.
 
-- ✨ Feature 1: Brief description
-- ⚡ Feature 2: Brief description
-- 🔧 Feature 3: Brief description
+- ✨ Infinite Scalability: Architecture designed to grow beyond boundaries
+- ⚡ Real-time Data Flow: Seamless synchronization across the application ecosystem
+- 🔧 Modular Design: Components that reflect the interconnected nature of existence
 
 #### 🌐 [Another Project](https://github.com/thenitishmind/another-repo)
 **Frontend Experience** | `Vue.js` `TypeScript` `CSS3`
